@@ -1,0 +1,6 @@
+.message-place {
+    flex: 1; /* Занимает все доступное пространство между HeadChat и InputMessage */
+    padding: 10px;
+    overflow-y: auto; /* Прокрутка по вертикали */
+    background-color: #f9f9f9; /* Светлый фон */
+  }

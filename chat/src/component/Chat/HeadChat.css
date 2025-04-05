@@ -1,0 +1,17 @@
+.head-chat {
+    padding: 10px;
+    background-color: #34495e; /* Темный фон */
+    color: #ecf0f1; /* Светлый текст */
+    border-bottom: 1px solid #2c3e50;
+  }
+  
+  .chat-title {
+    margin: 0;
+    font-size: 18px;
+  }
+  
+  .chat-participants {
+    margin: 5px 0 0;
+    font-size: 14px;
+    color: #bdc3c7;
+  }

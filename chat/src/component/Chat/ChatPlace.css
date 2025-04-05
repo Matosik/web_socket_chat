@@ -1,0 +1,14 @@
+.chat-place-container {
+    display: flex;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    flex-direction: column;
+    width: 500px; /* Ширина чата */
+    height: 870px; /* Высота чата */
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #fff;
+    overflow: hidden; /* Чтобы скругленные края работали корректно */
+  }
